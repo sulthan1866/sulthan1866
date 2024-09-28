@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub stats 😊](https://github-readme-stats.vercel.app/api?username=sulthan1866&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulthan1866&show_icons=true&rank_icon=github&hide=rank&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthan1866&layout=donut&theme=radical)
 
