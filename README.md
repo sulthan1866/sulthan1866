@@ -13,9 +13,6 @@
 - **StudyCards**: A web app with two modes (study and play) that helps users review and test knowledge using card-based questions and answers. (Tech: Spring Boot, Vite, React, TypeScript)
 - Other personal projects: **Tic-Tac-Toe game, a calculator, a to-do list app, and more!**
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun Fact:
 - I enjoy solving puzzles and debugging complex code issues, and I always use print statements , console and network tab when debugging!
   
@@ -23,3 +20,11 @@
 - **Email**: mohammed.sulthan.2972004@gmail.com
 - **LinkedIn**: [Mohammed Sulthan](https://www.linkedin.com/in/mohammed-sulthan-97b686314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Instagram**: [@sulthan1866](https://www.instagram.com/sulthan1866?igsh=MWpwMm5ybWRyazM4bQ==)
+
+## 📊 GitHub Stats
+
+![My GitHub stats 😊](https://github-readme-stats.vercel.app/api?username=sulthan1866&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthan1866&layout=donut&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sulthan1866&hide_border=true&theme=radical)
