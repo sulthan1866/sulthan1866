@@ -10,7 +10,7 @@
 - Projects where I can learn new tools, frameworks, and techniques.
 
 ### 📚 Projects I’ve Worked On:
-- **StudyCards**: A web app with two modes (study and play) that helps users review and test knowledge using card-based questions and answers. (Tech: Spring Boot, Vite, React, TypeScript)
+- **StudyCards**: A web app that helps users test knowledge using flash cards (MCQ questions). (Tech: Spring Boot, Vite, React, TypeScript)
 - Other personal projects: **Tic-Tac-Toe game, a calculator, a to-do list app, and more!**
 
 ### ⚡ Fun Fact:
