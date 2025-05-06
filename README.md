@@ -23,8 +23,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulthan1866&show_icons=true&rank_icon=github&hide=rank&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthan1866&layout=donut&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sulthan1866&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulthan1866&show_icons=true&rank_icon=github&hide=rank&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthan1866&layout=donut&theme=radical)
