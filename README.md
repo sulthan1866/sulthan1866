@@ -10,7 +10,8 @@
 - Projects where I can learn new tools, frameworks, and techniques.
 
 ### 📚 Projects I’ve Worked On:
-- **StudyCards**: A web app that helps users test knowledge using flash cards (MCQ questions). (Tech: Spring Boot, Vite, React, TypeScript)
+- **Habit Teacker**: A web app with which users can schedule and track daily habits.
+- **StudyCards**: A web app that helps users test knowledge using flash cards (MCQ questions). 
 - Other personal projects: **Tic-Tac-Toe game, a calculator, a to-do list app, and more!**
 
 ### ⚡ Fun Fact:
