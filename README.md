@@ -18,8 +18,8 @@
 - I enjoy solving puzzles and debugging complex code issues, and I always use print statements , console and network tab when debugging!
   
 ### 📫 How to reach me:
-- **Email**: mohammed.sulthan.2972004@gmail.com
-- **LinkedIn**: [Mohammed Sulthan](https://www.linkedin.com/in/mohammed-sulthan-97b686314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: sulthan1869@gmail.com
+- **LinkedIn**: [sulthan1866](https://www.linkedin.com/in/sulthan1866)
 - **Instagram**: [@sulthan1866](https://www.instagram.com/sulthan1866?igsh=MWpwMm5ybWRyazM4bQ==)
 
 ## 📊 GitHub Stats
